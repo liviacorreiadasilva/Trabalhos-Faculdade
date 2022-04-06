@@ -83,4 +83,61 @@
 /*CODIGO CSS*/
 
 
+*{
+    margem: 0%;
+    preenchimento: 0%;
+}
+corpo{
+    cor de fundo: rgb(30, 41, 41);
+    cor: fumaça branca;
+    cor da borda: preto;
+    tamanho da fonte: 110%;
+    margem: 3em;
+}
+.título{
+    cor: rgb(2, 255, 171);
+    cor da borda: preto;
+    família de fontes: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Genebra, Verdana, sans-serif;
+    tamanho da fonte: 280%;
+    text-align: justificar;
 
+}
+.link{
+    cor: rgb(21, 182, 231);
+    tamanho da fonte: 120%;
+}
+.quemsomos{
+    cor: turquesa;
+    cor da borda: preto;
+    família de fontes: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Genebra, Verdana, sans-serif;
+    tamanho da fonte: 220%;
+    peso da fonte: 40%;
+}
+.missao{
+    cor: turquesa;
+    cor da borda: preto;
+    família de fontes: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Genebra, Verdana, sans-serif;
+    tamanho da fonte: 220%;
+}
+.nossosvalores{
+    cor: turquesa;
+    cor da borda: preto;
+    família de fontes: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Genebra, Verdana, sans-serif;
+    tamanho da fonte: 220%;
+}
+.visaodaempresa{
+    cor: turquesa;
+    cor da borda: preto;
+    família de fontes: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Genebra, Verdana, sans-serif;
+    tamanho da fonte: 220%;
+}
+.sobreacriadora{
+    cor: turquesa;
+    cor da borda: preto;
+    família de fontes: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Genebra, Verdana, sans-serif;
+    tamanho da fonte: 220%;
+}
+.creditos{
+    cor: turquesa;
+    cor da borda: preto;
+}
