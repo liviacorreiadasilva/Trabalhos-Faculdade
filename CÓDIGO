@@ -1,0 +1,92 @@
+<!DOCTYPEhtml>
+<html lang="pt">
+<cabeça>    
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">   
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="datatecnologyestilizacaocss.CSS" media="screen">
+</head>
+
+<body>
+
+    <h1 class="titulo">Tecnologia de dados</h1>
+    
+    <p>
+        <a href="#C4" class="link"> Sobre o Criador do site</a>
+    
+    </p>
+    <p>
+        
+           <br>
+        <h2 class="quemsomos">Quem somos</h2>
+        <p>Data Tecnology é uma empresa especializada em
+            segurança de dados que não está no mercado desde
+            de 2015, <br>com o objetivo de promover a segurança
+            aos indivíduos e instituições contra ataques
+            em redes <br> e acessos maliciosos de
+            terceiros. </p>
+            <br>
+        
+            <br>
+            <h2 class="missao">Missão</h2>
+            <p> A Tecnologia de Dados tem a missão de atuar em
+            prestação de serviços com qualidade para qualquer um
+            tipo de corporação, <br>com o objetivo de oferecer profissionais
+            assistência em soluções com o suporte,monitoraemento
+            e manutenção <br> para a preservação de dados, a fim de
+            que o usuário possa ter uma segurança eficaz e prestação
+            de serviço com qualidade. </p>
+            <br>
+        
+            <br>
+            <h2 class="nossosvalores"> Nossos Valores</h2>
+            <ul>
+                <li>Respeito</li>
+                <li>Produtividade</li>
+                <li>Confiança</li>
+                <li>Humildade</li>
+                <li>Ética</li>
+                <li>Criatividade</li>
+                <li>Inovação</li>
+             </ul> <br>
+            
+             
+             <br>
+            <h2 class="visaodaempresa">Visão da Empresa</h2>
+            <p>O nosso objetivo é conquistar espaços internacionais
+            serviços reconhecidos pela qualidade e inovação na prestação
+            de <br> serviços,para assim fornecer produtos de qualidade
+            aos seus beneficiários com custos acessíveis.</p>       
+            
+            <br>
+            <br>
+            <img src="logo do site.jpg" largura="390" altura="280">
+            <br>
+            
+
+            <a name="C4"> <br>
+                <br>
+            <h2 class="sobreacriadora">Sobre a Criadora do site</h2>
+            <p>Olá ,meu nome é Lívia tenho 19 anos e estou na Faculdade
+            de Tecnologia da Informação, mais conhecido como TI<br>
+            No final do ano de 2021, apresentei um trabalho em grupo na
+            faculdade, com o objetivo de criar uma empresa de <br> Segurança
+            de Dados. Depois de ter apresentado o trabalho, surgiu uma ideia
+            de criar um site para essa empresa, para <br>adiquirir aprendizados
+            com a linguagem HTML e com o desenvolvimento de sites. <br>
+            <br>
+           
+            <br>
+            <h4 class="creditos"> Meu Primeiro Site!! <br> Lívia Correia da Silva<br>
+            03 de janeiro de 2022 <br></h4>
+            <br>
+            
+            
+    </p>
+
+</body>
+</html>
+
+
+
+
