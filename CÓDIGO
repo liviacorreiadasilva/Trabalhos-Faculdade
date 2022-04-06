@@ -6,17 +6,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="datatecnologyestilizacaocss.CSS" media="screen">
 </head>
-
 <body>
-
     <h1 class="titulo">Tecnologia de dados</h1>
-    
     <p>
         <a href="#C4" class="link"> Sobre o Criador do site</a>
-    
     </p>
     <p>
-        
            <br>
         <h2 class="quemsomos">Quem somos</h2>
         <p>Data Tecnology é uma empresa especializada em
@@ -49,7 +44,6 @@
                 <li>Criatividade</li>
                 <li>Inovação</li>
              </ul> <br>
-            
              
              <br>
             <h2 class="visaodaempresa">Visão da Empresa</h2>
@@ -79,14 +73,14 @@
             <br>
             <h4 class="creditos"> Meu Primeiro Site!! <br> Lívia Correia da Silva<br>
             03 de janeiro de 2022 <br></h4>
-            <br>
-            
-            
+            <br>                    
     </p>
 
 </body>
 </html>
 
+
+/*CODIGO CSS*/
 
 
 
